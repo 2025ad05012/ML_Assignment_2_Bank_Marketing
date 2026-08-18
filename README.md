@@ -271,6 +271,22 @@ Verification results:
 
 ## 12. Streamlit Application
 
+An interactive Streamlit web application was developed for demonstrating the classification models.
+
+The application provides the following features:
+
+1. CSV test-data upload
+2. Model selection dropdown
+3. Prediction summary
+4. Accuracy
+5. AUC
+6. Precision
+7. Recall
+8. F1 Score
+9. MCC
+10. Confusion matrix
+11. Classification report
+
 The application was tested successfully with all five implemented models.
 
 The evaluation results displayed in Streamlit were verified against the notebook results.
