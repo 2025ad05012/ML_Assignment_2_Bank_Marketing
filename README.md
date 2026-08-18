@@ -319,7 +319,7 @@ ML_Assignment_2_Bank_Marketing/
     ├── naive_bayes.pkl
     ├── preprocessor.pkl
     └── random_forest.pkl
-    ```
+```
 ## 15. Requirements
 
 The project uses the following Python libraries:
