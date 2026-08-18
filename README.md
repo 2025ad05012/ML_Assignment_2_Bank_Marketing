@@ -295,7 +295,10 @@ The evaluation results displayed in Streamlit were verified against the notebook
 
 ## 13. GitHub Repository Link
 
-**To be updated after GitHub repository creation.**
+The complete source code, trained model files, test dataset, requirements file, and README are available in the following GitHub repository:
+
+**GitHub Repository:**  
+https://github.com/2025ad05012/ML_Assignment_2_Bank_Marketing
 
 ---
 
@@ -316,8 +319,7 @@ ML_Assignment_2_Bank_Marketing/
     ├── naive_bayes.pkl
     ├── preprocessor.pkl
     └── random_forest.pkl
-
-
+    ```
 ## 15. Requirements
 
 The project uses the following Python libraries:
